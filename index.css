@@ -21,6 +21,10 @@
         padding: 150px 0px 0px 40px;
        
     }
+    .header-subtext{
+        display: flex;
+        font-size: 30px;
+    }
     .header-img{
         
         background-size: cover;
