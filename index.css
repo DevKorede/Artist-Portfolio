@@ -19,11 +19,12 @@
     .header-text{
         width: 70%;
         padding: 150px 0px 0px 40px;
+        font-size: 30px;
        
     }
     .header-subtext{
         display: flex;
-        font-size: 30px;
+        font-size: 20px;
     }
     .header-img{
         
